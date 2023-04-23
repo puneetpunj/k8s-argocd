@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: git@github.com:puneetpunj/k8s-argocd.git
+    repoURL: https://github.com/puneetpunj/k8s-argocd.git
     targetRevision: HEAD
     path: dev
   destination: 
